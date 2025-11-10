@@ -1,0 +1,8 @@
+C:\Users\DTG-2025\Desktop\POO\Atividade_encapsulamento\Atividade_encapsulamento\bin\Debug\Atividade_encapsulamento.exe.config
+C:\Users\DTG-2025\Desktop\POO\Atividade_encapsulamento\Atividade_encapsulamento\bin\Debug\Atividade_encapsulamento.exe
+C:\Users\DTG-2025\Desktop\POO\Atividade_encapsulamento\Atividade_encapsulamento\bin\Debug\Atividade_encapsulamento.pdb
+C:\Users\DTG-2025\Desktop\POO\Atividade_encapsulamento\Atividade_encapsulamento\obj\Debug\Atividade_encapsulamento.csproj.AssemblyReference.cache
+C:\Users\DTG-2025\Desktop\POO\Atividade_encapsulamento\Atividade_encapsulamento\obj\Debug\Atividade_encapsulamento.csproj.SuggestedBindingRedirects.cache
+C:\Users\DTG-2025\Desktop\POO\Atividade_encapsulamento\Atividade_encapsulamento\obj\Debug\Atividade_encapsulamento.csproj.CoreCompileInputs.cache
+C:\Users\DTG-2025\Desktop\POO\Atividade_encapsulamento\Atividade_encapsulamento\obj\Debug\Atividade_encapsulamento.exe
+C:\Users\DTG-2025\Desktop\POO\Atividade_encapsulamento\Atividade_encapsulamento\obj\Debug\Atividade_encapsulamento.pdb
